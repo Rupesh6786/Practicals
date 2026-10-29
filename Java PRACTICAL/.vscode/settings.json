@@ -1,0 +1,14 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\ghula\\Downloads\\jar_files\\mysql-connector-j-8.3.0.jar",
+            "c:\\Users\\ghula\\Downloads\\itext-pdfa-5.5.13.3\\itext-pdfa-5.5.13.3-sources.jar",
+            "c:\\Users\\ghula\\Downloads\\itextpdf-5.5.13.3.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\ghula\\Downloads\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar"
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+Java frees the developer from the burden of memory management.  
+Java's built-in multithreading support is a game changer in concurrent programming.  
+Everything in Java is treated as an object, providing structure and reusability.
+The JDK is the toolbox; what you build with it is your masterpiece.
+The JRE is the bridge between your Java program and the underlying system.  
+JavaFX takes GUI design to the next level, replacing Swing with modern features.  
+Spring simplifies Java development by managing your apps dependencies and transactions.  
+Hibernate hides the complexities of database communication, enabling seamless data persistence. 
+JavaBeans are reusable components, simplifying the development of modular applications.
+Generics bring type safety to Java, reducing runtime errors by catching issues at compile time.  
+With Lambdas, Java embraces functional programming, making your code cleaner and more expressive.  
+Streams bring a declarative approach to data processing, making it easier to handle large datasets.  
+Java's robust exception handling ensures that your applications gracefully manage errors.
+Annotations provide metadata, allowing frameworks and tools to process code more efficiently.  
+Java SE lays the foundation for all Java applications with its rich library of core APIs.
+Joshua Bloch - Effective Java.
+Kathy Sierra - Head First Java.
+Herbert Schildt - Java: The Complete Reference.
+Bruce Eckel - Thinking in Java.
+Bert Bates - OCP Java SE 8 Programmer Certification Guide.
+Paul Deitel - Java How to Program.
+Cay S Horstmann - Core Java Volume I – Fundamentals.
+Ken Arnold - The Java Programming Language.
+David Flanagan - Java in a Nutshell.
+Venkat Subramaniam - Programming Concurrency on the JVM.
+Write once, run anywhere — Sun Microsystems.
